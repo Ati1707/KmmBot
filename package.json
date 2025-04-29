@@ -17,7 +17,10 @@
   "homepage": "https://github.com/Ati1707/KmmBot#readme",
   "description": "",
   "dependencies": {
+    "@discordjs/rest": "^2.5.0",
+    "discord-api-types": "^0.38.1",
     "discord.js": "^14.19.2",
-    "dotenv": "^16.5.0"
+    "dotenv": "^16.5.0",
+    "tweetnacl": "^1.0.3"
   }
 }

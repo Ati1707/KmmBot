@@ -1,3 +1,4 @@
 name = "kmmbot"
 compatibility_date = "2025-04-29"
 main = "index.js"
+account_id = "602fad317ed453fea22cfae8efaa0336"
