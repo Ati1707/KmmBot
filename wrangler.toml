@@ -1,0 +1,3 @@
+name = "kmmbot"
+compatibility_date = "2025-04-29"
+main = "index.js"
